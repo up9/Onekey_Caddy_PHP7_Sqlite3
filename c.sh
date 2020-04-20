@@ -27,7 +27,7 @@ Error="${Red}[错误]${Font}"
 
 #定义配置文件路径
 Default_dir(){
-conf_dir="/etc/dylanbai8"
+conf_dir="/etc/avan"
 }
 
 Default_caddy(){
